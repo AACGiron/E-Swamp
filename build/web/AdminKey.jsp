@@ -1,8 +1,3 @@
-<%-- 
-    Document   : AdminKey
-    Created on : May 11, 2022, 2:53:17 PM
-    Author     : acer
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

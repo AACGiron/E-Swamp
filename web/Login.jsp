@@ -1,8 +1,3 @@
-<%-- 
-    Document   : welcome
-    Created on : May 9, 2022, 6:03:12 PM
-    Author     : acer
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

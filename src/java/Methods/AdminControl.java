@@ -55,8 +55,6 @@ public class AdminControl {
         try {
             key1 = Security.encrypt(key1);
             key2 = Security.encrypt(key2);
-            System.out.println(Security.decrypt(key1));
-            System.out.println(Security.decrypt(key2));
             String query = "UPDATE adminkey SET key1 = ? AND key2 = ?";
             PreparedStatement ps = conn.prepareStatement(query, ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_READ_ONLY);
             ps.setString(1, key1);

@@ -55,6 +55,10 @@
         <servlet-name>SimpleCaptcha</servlet-name>
         <servlet-class>Other.SimpleCaptcha</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>testo</servlet-name>
+        <servlet-class>Controller.testo</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>LoginPage</servlet-name>
         <url-pattern>/LoginPage</url-pattern>
@@ -79,12 +83,16 @@
         <servlet-name>SimpleCaptcha</servlet-name>
         <url-pattern>/SimpleCaptcha</url-pattern>
     </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>testo</servlet-name>
+        <url-pattern>/testo</url-pattern>
+    </servlet-mapping>
     <session-config>
         <session-timeout>
             30
         </session-timeout>
     </session-config>
     <welcome-file-list>
-        <welcome-file>Welcome.jsp</welcome-file>
+        <welcome-file>test.jsp</welcome-file>
     </welcome-file-list>
 </web-app>
