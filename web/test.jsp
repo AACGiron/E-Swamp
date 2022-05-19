@@ -8,8 +8,7 @@
     </head>
     <body>
         <h1>success login</h1>
-        <form method="post" action="testo">
-            <input name="PageNum" type="text">
+        <form method="post" action="MainStore">
             <input type="submit" value="Submit">
         </form>
     </body>

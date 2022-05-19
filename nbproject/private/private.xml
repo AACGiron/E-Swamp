@@ -3,13 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/acer/Documents/NetBeansProjects/E-Swamp/src/java/Methods/AdminControl.java</file>
-            <file>file:/C:/Users/acer/Documents/NetBeansProjects/E-Swamp/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/acer/Documents/NetBeansProjects/E-Swamp/src/java/Methods/ShopHandler.java</file>
-            <file>file:/C:/Users/acer/Documents/NetBeansProjects/E-Swamp/web/test.jsp</file>
-            <file>file:/C:/Users/acer/Documents/NetBeansProjects/E-Swamp/web/test2.jsp</file>
-            <file>file:/C:/Users/acer/Documents/NetBeansProjects/E-Swamp/src/java/Controller/testo.java</file>
-            <file>file:/C:/Users/acer/Documents/NetBeansProjects/E-Swamp/src/java/Controller/LoginRegister.java</file>
+            <file>file:/C:/Users/alexa/OneDrive/Documents/NetBeansProjects/E-Swamp/src/java/Methods/AccountHandler1.java</file>
+            <file>file:/C:/Users/alexa/OneDrive/Documents/NetBeansProjects/E-Swamp/src/java/Methods/ShopHandler.java</file>
+            <file>file:/C:/Users/alexa/OneDrive/Documents/NetBeansProjects/E-Swamp/src/java/Methods/WishHandler.java</file>
+            <file>file:/C:/Users/alexa/OneDrive/Documents/NetBeansProjects/E-Swamp/src/java/Methods/CartHandler.java</file>
         </group>
     </open-files>
 </project-private>

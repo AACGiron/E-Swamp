@@ -1,3 +1,8 @@
+<%-- 
+    Document   : test
+    Created on : May 9, 2022, 9:59:30 PM
+    Author     : acer
+--%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -8,9 +13,5 @@
     </head>
     <body>
         <h1>success login</h1>
-        <form method="post" action="testo">
-            <input name="PageNum" type="text">
-            <input type="submit" value="Submit">
-        </form>
     </body>
 </html>
